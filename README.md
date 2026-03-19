@@ -1,5 +1,4 @@
 # Micro-Java Compiler
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/matijaaz/Micro-Java-Compiler)
 
 This repository contains a complete compiler for Micro-Java, a simplified subset of the Java language. Developed as a project for a compilers course, it performs lexical, syntax, and semantic analysis, and generates executable bytecode for a custom virtual machine.
 
